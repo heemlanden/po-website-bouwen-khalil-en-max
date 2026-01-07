@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profielpagina 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Mijn profiel</h1>
+<h2>Algemene informatie</h2>
+
+<div class="box">
+    <p><b>Naam:</b> Khalil Alkaed</p>
+    <p><i>Klas:</i> H4A</p>
+    <p><u>Leerlingnummer:</u> 8562</p>
+</div>
+
+<img src="images/profielfoto%20(2).jpg" alt="Profielfoto" width="150">
+
+<br><br>
+
+<a href="index.html">Terug naar startpagina</a><br>
+<a href="profielpagina2.html">Ga naar profielpagina 2</a>
+
+</body>
+</html>

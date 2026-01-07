@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Startpagina</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Welkom op mijn profielpagina</h1>
+
+<p>gemaakt door khalil alkaed.</p>
+
+<a href="profielpagina1.html">Ga naar profielpagina 1</a><br>
+<a href="profielpagina2.html">Ga naar profielpagina 2</a>
+
+</body>
+</html>

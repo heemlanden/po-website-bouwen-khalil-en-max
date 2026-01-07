@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profielpagina 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Over mij</h1>
+<h2>Persoonlijke informatie</h2>
+
+<p>
+    Ik ben Khalil Alkaed en ik kom uit Syrië.
+    Ik woon hier al ongeveer 10 jaar.
+    Mijn hobby’s zijn gamen en naar de gym gaan.
+    Ik werk drie keer per week.
+    Ik heb twee zussen en één broertje.
+</p>
+
+<h2>Mijn favorieten</h2>
+
+<ul>
+    <li>Lievelingseten: shawarma</li>
+    <li>Games: GTA en Minecraft</li>
+    <li>Sport: gym</li>
+</ul>
+
+<h2>Extra informatie</h2>
+
+<table>
+    <tr>
+        <th>Categorie</th>
+        <th>Informatie</th>
+    </tr>
+    <tr>
+        <td>Hobby’s</td>
+        <td>Gamen en gym</td>
+    </tr>
+    <tr>
+        <td>Muziek</td>
+        <td>Rap</td>
+    </tr>
+</table>
+
+<br>
+
+<a href="profielpagina1.html">Terug naar profielpagina 1</a><br>
+<a href="index.html">Terug naar startpagina</a>
+
+</body>
+</html>

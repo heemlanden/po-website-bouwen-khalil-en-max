@@ -1,0 +1,25 @@
+body {
+    background-color: navy;      
+    color: red;                  
+    font-family: Arial, sans-serif;
+}
+a {
+    color: red;
+}
+h1 {
+    text-decoration: underline;
+}
+.box {
+    border: 2px solid red;
+    padding: 10px;
+    margin: 15px;
+}
+table {
+    background-color: red;
+    color: navy;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid navy;
+    padding: 5px;
+}
